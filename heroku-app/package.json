@@ -1,0 +1,10 @@
+{
+  "name": "heroku-app",
+  "version": "0.0.0",
+  "description": "heroku-app",
+  "main": "app.js",
+  "author": {
+    "name": "DCCPLBNG055",
+    "email": ""
+  }
+}
