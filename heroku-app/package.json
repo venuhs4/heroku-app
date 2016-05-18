@@ -3,8 +3,12 @@
   "version": "0.0.0",
   "description": "heroku-app",
   "main": "app.js",
+   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "author": {
-    "name": "DCCPLBNG055",
+    "name": "Venu",
     "email": ""
-  }
+  },
+  "license": "ISC"
 }
